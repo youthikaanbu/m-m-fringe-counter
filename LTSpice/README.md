@@ -35,6 +35,12 @@
     - diode characteristics shift with applied light 
 
 ## Transimpednace Amplifier 
+- converts electric current to voltage 
+- calculate the output voltage by multiplying the input current (from the photodiode) with the feedback resistor ($R_F$)
+- SBW (signal bandwidth) with cutoff frequency ($f_c$) is controlled by $R_f$ & $C_f$
+- NBW (noise bandwidth)
+- NG (noise gain)
+
 
 
 
