@@ -1,5 +1,7 @@
 # LTspice Simulation & Noise Analysis SOP
 
+- Practice sim (/LTSpice/Sim_openloopgain_noisegain)
+
 ## Photodiode Model Parameters for Noise Analysis
 
 | Parameter | Symbol | Description |
@@ -40,6 +42,19 @@
 - SBW (signal bandwidth) with cutoff frequency ($f_c$) is controlled by $R_f$ & $C_f$
 - NBW (noise bandwidth)
 - NG (noise gain)
+
+1. Photodiode noise model 
+2. Op amp noise model
+3. Resistor noise model 
+
+-> are separate noise sources -> will combine to give the total output noise voltage 
+Sources of Noise 
+- input capacitance (sum of junction capacitance and input capacitance of the opamp)
+- feedback capacitance 
+- shunt resistance 
+- feedback resistance 
+
+## Calculate Frequency Parameters
 
 
 
