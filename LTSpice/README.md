@@ -1,6 +1,6 @@
 # LTspice Simulation & Noise Analysis SOP
 
-- Practice sim (/LTSpice/Sim_openloopgain_noisegain)
+- [Practice sim for open loop gain & noise gain](/LTSpice/Sim_openloopgain_noisegain)
 
 ## Photodiode Model Parameters for Noise Analysis
 
